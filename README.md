@@ -30,6 +30,8 @@ an MPU6050 (Accelerometer/gyroscope) and nRF24l01 (2.4GHz radio module) are incl
 
 The protoboard design included uses all through-hole components.
 
+![Wiring Diagram image](https://raw.githubusercontent.com/Bespoke-Robot-Society/simplebot/refs/heads/master/images/Protoboard%20Wiring%20Overview.png)
+
 PCB design is still to-do.
 
 The current protoboard pinout leaves 7 GPIOs open on the Pi Pico, including UART 0 and all three ADCs. 
