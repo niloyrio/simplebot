@@ -2,6 +2,8 @@
 
 Bespoke Robot Society's original design for kids, students, or cost-sensitive tinkerers.
 
+![Image of SimpleBot](https://raw.githubusercontent.com/Bespoke-Robot-Society/simplebot/refs/heads/master/images/simplebot.jpeg)
+
 Goals:
 
 * Control a basic, multipurpose teaching robot with the Pi Pico (or Pico W).
